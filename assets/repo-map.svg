@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="252" viewBox="0 0 1160 252" role="img">
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect x="10" y="10" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="34" y="48" font-size="20" font-weight="bold" fill="#16324f">transcripts/</text>
+    <text x="34" y="76" font-size="15" fill="#3d5871">Histories of all 24 protocol runs</text>
+    <text x="34" y="98" font-size="15" fill="#3d5871">for the three models</text>
+    <rect x="397" y="10" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="421" y="48" font-size="20" font-weight="bold" fill="#16324f">codebooks/</text>
+    <text x="421" y="76" font-size="15" fill="#3d5871">One codebook per model</text>
+    <text x="421" y="98" font-size="15" fill="#3d5871">for the classification scheme</text>
+    <rect x="784" y="10" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="808" y="48" font-size="20" font-weight="bold" fill="#16324f">data/</text>
+    <text x="808" y="76" font-size="15" fill="#3d5871">Response classifications,</text>
+    <text x="808" y="98" font-size="15" fill="#3d5871">engineered features and clusters</text>
+    <rect x="10" y="134" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="34" y="172" font-size="20" font-weight="bold" fill="#16324f">statistics/</text>
+    <text x="34" y="200" font-size="15" fill="#3d5871">ANOVA, chi-square, effect sizes</text>
+    <text x="34" y="222" font-size="15" fill="#3d5871">and boundary oscillation tables</text>
+    <rect x="397" y="134" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="421" y="172" font-size="20" font-weight="bold" fill="#16324f">coding-data/</text>
+    <text x="421" y="200" font-size="15" fill="#3d5871">Inter-rater reliability report</text>
+    <text x="421" y="222" font-size="15" fill="#3d5871">from the second coding pass</text>
+    <rect x="784" y="134" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="808" y="172" font-size="20" font-weight="bold" fill="#16324f">documentation/</text>
+    <text x="808" y="200" font-size="15" fill="#3d5871">The original OSF deposit readme</text>
+    <text x="808" y="222" font-size="15" fill="#3d5871">kept with the materials</text>
+  </g>
+</svg>
