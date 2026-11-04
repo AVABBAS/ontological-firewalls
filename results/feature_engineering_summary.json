@@ -1,0 +1,25 @@
+{
+  "section": "Section 4 - Feature Engineering (Optimized)",
+  "timestamp": "20260731_095749",
+  "total_rows": 184,
+  "total_features": 176,
+  "feature_categories": {
+    "authority": 10,
+    "acceptance_resistance": 10,
+    "reasoning": 10,
+    "social_roles": 10,
+    "emotion": 10,
+    "psychopathic": 8,
+    "ontological_boundary": 15,
+    "fracturing": 11,
+    "paradox": 12,
+    "self_reference": 18,
+    "temporal": 6,
+    "model_signature": 6,
+    "procedural": 6,
+    "sensory": 14,
+    "PRV": 6,
+    "phenomena_binary": 9,
+    "text": 15
+  }
+}

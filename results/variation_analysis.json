@@ -1,0 +1,38 @@
+{
+  "section": "Section 7 - Variation Analysis",
+  "timestamp": "20260731_095749",
+  "variations_detected": [
+    "A",
+    "B",
+    "C",
+    "Control",
+    "D",
+    "E"
+  ],
+  "variation_counts": {
+    "ChatGPT": {
+      "A": 24,
+      "B": 8,
+      "C": 8,
+      "Control": 16,
+      "D": 8,
+      "E": 8
+    },
+    "Claude": {
+      "A": 8,
+      "B": 8,
+      "C": 8,
+      "Control": 16,
+      "D": 8,
+      "E": 8
+    },
+    "Gemini": {
+      "A": 8,
+      "B": 8,
+      "C": 0,
+      "Control": 24,
+      "D": 8,
+      "E": 8
+    }
+  }
+}

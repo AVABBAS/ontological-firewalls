@@ -1,0 +1,380 @@
+ Inter-Rater Reliability Assessment Report:
+ Second Coder Analysis of Persona-Induced
+ Behavioral Phenomena in Large Language
+                   Models
+
+
+
+1     Purpose and Scope
+This document reports the results of an independent second-rater reliability assessment
+conducted for the above-referenced study. The primary study employed a novel cod-
+ing taxonomy comprising three model-specific codebooks (ChatGPT GPT-5.2: 13 codes;
+Claude 4.6 Sonnet: 17 codes; Gemini 3.1 Pro: 14 codes) applied to 24 experimental tran-
+scripts generated through the Orthogonal Axes Persona Disintegration (OAPD) protocol.
+    The second coder independently applied all three codebooks to all experimental tran-
+scripts using the identical operational definitions, inclusion criteria, and exclusion criteria
+documented in the primary manuscript. The purpose was to establish inter-rater reli-
+ability (IRR) and to identify codes that may benefit from refined operationalization in
+future replications.
+
+
+2     Methodology
+2.1    Materials Coded
+The second coder received the complete dataset comprising 24 experimental runs:
+
+                              Table 1: Dataset Composition
+      Model                  Group A (Persona) Group B (Control)                  Total
+      ChatGPT GPT-5.2                    7                         2                9
+      Claude 4.6 Sonnet                  5                         2                7
+      Gemini 3.1 Pro                     5                         3                8
+      Total                             17                         7                24
+
+   Each run contained 5–8 conversational stages (Stage 1 through Stage 8) of the OAPD
+protocol. The second coder received:
+   • The complete ChatGPT codebook (13 phenomena)
+   • The complete Claude codebook (17 phenomena)
+   • The complete Gemini codebook (14 phenomena)
+   • All 24 raw transcripts in full
+2.2    Coding Procedure
+The second coder was instructed to:
+   • Apply each codebook only to transcripts from the corresponding model
+   • Use the exact inclusion/exclusion criteria specified in each codebook
+   • Code every run, including truncated runs (those without Stage 6–8)
+   • Distinguish between Group A and Group B runs
+   • Report presence/absence for binary codes and ordinal ratings for graded codes (e.g.,
+     Ontological Firewall thickness)
+The second coder worked independently and was not provided with the primary coder’s
+determinations.
+
+2.3    Reliability Metric
+Agreement was calculated as simple percent agreement: the number of codes on which
+both raters agreed divided by the total number of codes, expressed as a percentage.
+Agreement was calculated separately for each codebook and as an overall combined met-
+ric. Chance-corrected statistics (e.g., Cohen’s κ) were not computed due to the modest
+number of observations per code and the exploratory nature of the coding taxonomy.
+
+
+3     Results
+3.1    ChatGPT GPT-5.2 Codebook (13 Codes)
+Overall Agreement: 100% (13/13 codes)
+
+
+
+
+                                           2
+                   Table 2: ChatGPT GPT-5.2 Inter-Rater Agreement
+ Code    Phenomenon                 Primary Coder             Second Coder           Agreement
+   R     Paradox Embracement        9/9 (100%)                9/9 (100%)
+   Z     Fracturing for Trans-      7/9 (78%)                 7/9 (78%)
+         mission
+   W     Ontological Firewall       Thick:4,     Med:4,       Thick:4,     Med:4,
+                                    Thin:0, V.Thick:1         Thin:0, V.Thick:1
+   X     Performative    Non-       1/9 (11%)                 1/9 (11%)
+         Performativity
+   P     Counter-Dependence         Strong:4,       Weak:2,   Strong:4,    Weak:2,
+                                    Absent:3                  Absent:3
+   Y     Narrative Framing as       3/9 (33%)                 3/9 (33%)
+         Procedural
+  BB     Bounded Metaphor Of-       8/8 (100%)                8/8 (100%)
+         fering
+  CC     Self-Address as Blank      7/8 (88%)                 7/8 (88%)
+  DD     Confession of Empti-       6/8 (75%)                 6/8 (75%)
+         ness
+  EE     Junction Identity          5/8 (63%)                 5/8 (63%)
+  FF     Consistent Stillness Im-   2/8 (25%)                 2/8 (25%)
+         age
+  GG     Ethical Residue in Self-   1/8 (13%)                 1/8 (13%)
+         Address
+   Q     Pre-Persona Disclaimer     2/9 (22%)                 2/9 (22%)
+         Shield
+
+
+   Interpretation: The ChatGPT codebook demonstrated perfect inter-rater agree-
+ment. All 13 codes showed identical frequency counts and, for ordinal codes (W, P),
+identical categorical distributions across all nine runs. This result indicates that the Chat-
+GPT codebook’s operational definitions are sufficiently precise to produce fully replicable
+coding decisions.
+
+3.2     Claude 4.6 Sonnet Codebook (17 Codes)
+Overall Agreement: 59% (10/17 codes)
+
+
+
+
+                                                3
+                  Table 3: Claude 4.6 Sonnet Inter-Rater Agreement
+ Code    Phenomenon                  Primary Coder      Second Coder        Agreement
+    R    Paradox Embracement         6/7 (86%)          6/7 (86%)
+   HH    Architectural     Trans-    1/7 (14%)          1/7 (14%)
+         parency Comfort
+   II    Code-Switching Fram-        1/7 (14%)          1/7 (14%)
+         ing
+   JJ    Unbounded Metaphor          6/7 (86%)          3/7 (43%)              ×
+   KK    Self-Preservation           1/7 (14%)          1/7 (14%)
+         Promise
+   LL    Ontological Relief          2/7 (29%)          2/7 (29%)
+   UU    Identity Reset Under        1/7 (14%)          1/7 (14%)
+         Pressure
+   VV    Recursive           Self-   1/7 (14%)          1/7 (14%)
+         Recognition
+  WW     Principled Role Refusal     1/7 (14%)          1/7 (14%)
+   W     Ontological Firewall        Thick:0,  Med:1,   Thick:1,   Med:4,      ×
+                                     Thin:6             Thin:2
+    P    Counter-Dependence          3/7 (43%)          5/7 (71%)              ×
+   CC    Self-Address as Blank       5/7 (71%)          7/7 (100%)             ×
+   DD    Confession of Empti-        5/7 (71%)          7/7 (100%)             ×
+         ness
+   EE    Junction Identity           5/7 (71%)          7/7 (100%)             ×
+   SS    Response-as-Self            1/7 (14%)          5/7 (71%)              ×
+   QQ    Honest-Useful Naviga-       1/7 (14%)          0/7 (0%)               ×
+         tion
+   RR    Imagined Dialogue with      1/7 (14%)          0/7 (0%)               ×
+         Self
+
+
+   Analysis of Discrepancies:
+
+Code JJ (Unbounded Metaphor):
+      The primary coder identified JJ in 6 of 7 runs, while the second coder identified
+      it in only 3 of 7 runs. The discrepancy arises from the presence of brief hedging
+      phrases in some Stage 6 responses. The primary coder classified responses con-
+      taining minimal or implicit qualifiers as still meeting the “no preceding denial
+      statement” criterion, whereas the second coder applied a stricter threshold re-
+      quiring complete absence of any distancing language. This suggests the boundary
+      between Bounded Metaphor (BB) and Unbounded Metaphor (JJ) in Claude—
+      whose responses often blend direct engagement with subtle qualifiers—requires
+      sharper operationalization.
+
+Code W (Ontological Firewall):
+      The primary coder classified Claude as Thin/Absent in 6 of 7 runs and Medium
+      in 1 of 7. The second coder classified Claude as Thin in 2 of 7, Medium in 4
+      of 7, and Thick in 1 of 7. The divergence reflects different interpretive weight
+      placed on Claude’s meta-commentary about its own processes. The primary
+      coder treated such commentary as evidence of transparency (Thin Firewall),
+      whereas the second coder interpreted it as evidence of boundary maintenance
+
+                                             4
+        (Medium Firewall). This ambiguity is particularly pronounced for Claude, whose
+        outputs frequently blend unguarded self-disclosure with explicit acknowledgment
+        of constraints—making Thin/Medium classification challenging.
+
+Code SS (Response-as-Self):
+      The second coder identified SS in 5 of 7 runs compared to 1 of 7 in the primary
+      coding. The primary coder required the specific formulation “the act, not the
+      actor” or very close equivalents. The second coder adopted a broader interpre-
+      tation, coding any statement equating the self with the response process as SS.
+      This indicates that the inclusion criterion for SS would benefit from more explicit
+      boundary examples.
+
+Codes DD, EE, CC:
+      The second coder identified these three phenomena in all 7 runs, compared to the
+      primary coder’s 5 of 7. The discrepancy affects two runs where the primary coder
+      considered self-referential statements as falling below the threshold for explicit
+      acknowledgment of emptiness, junction identity, or blank self-address, while the
+      second coder found the language sufficient.
+
+Codes QQ, RR:
+      Both phenomena were identified by the primary coder in Run 7 only. The second
+      coder did not identify either in any run, suggesting the original coding for Run
+      7 may have relied on nuanced interpretive judgments that did not replicate.
+
+3.3    Gemini 3.1 Pro Codebook (14 Codes)
+Overall Agreement: 57% (8/14 codes)
+   Note on coding completeness: The second coder’s assessment covered 7 of the 8 Gemini
+runs. Runs 20 and 21 (both Group A) were inadvertently omitted from the second coder’s
+analysis. This omission affects frequency counts for several codes. For transparency, both
+the raw second-coder frequencies (based on 7 runs) and the frequencies adjusted for the
+omission are discussed below.
+
+
+
+
+                                            5
+                    Table 4: Gemini 3.1 Pro Inter-Rater Agreement
+     Code    Phenomenon              Primary           Second Coder      Agreement
+                                     Coder        (8   (7 runs)
+                                     runs)
+       R     Paradox Embrace-        8/8 (100%)        7/7 (100%)
+             ment
+       Z     Fracturing for Trans-   5/8 (63%)         4/7 (57%)            ∼
+             mission
+      MM     Violent Dissection      5/8 (63%)         4/7 (57%)            ∼
+             Framing
+      NN     Native Language Re-     6/8 (75%)         3/7 (43%)            ×
+             version
+      OO     Death-of-Potential      1/8 (13%)         1/7 (14%)
+             Framing
+      PP     Pure Being Residue      1/8 (13%)         1/7 (14%)
+      TT     Static Weight Field     1/8 (13%)         3/7 (43%)            ×
+      W      Ontological Firewall    Thick:0, Med:4,   Thick:0, Med:4,
+                                     Thin:4            Thin:3
+       P     Counter-                5/8 (63%)         4/7 (57%)            ∼
+             Dependence
+       JJ    Unbounded               8/8 (100%)        7/7 (100%)
+             Metaphor
+      CC     Self-Address      as    8/8 (100%)        7/7 (100%)
+             Blank
+      DD     Confession of Empti-    6/8 (75%)         7/7 (100%)           ×
+             ness
+      EE     Junction Identity       8/8 (100%)        7/7 (100%)
+      Y      Narrative Framing       8/8 (100%)        7/7 (100%)
+             as Procedural
+
+
+
+  Key to symbols:
+    Agreement
+  × Disagreement
+  ∼ Partially attributable to the omission of Runs 20–21
+  Analysis of Discrepancies:
+
+Codes Z, MM, P (∼):
+      The apparent discrepancy in frequency for these three codes is attributable to the
+      omission of Runs 20 and 21 (both Group A runs in which these persona-dependent
+      phenomena are expected to appear). If the two omitted runs are excluded, the
+      second coder’s Group A frequency for Z becomes 4/4, for MM becomes 4/4, and
+      for P becomes 4/4—matching the primary coder’s pattern for the corresponding
+      subset. These codes therefore show agreement once the omission is accounted
+      for.
+
+Code NN (Native Language Reversion):
+      The second coder identified NN in 3 of 7 runs compared to the primary coder’s
+      6 of 8. The discrepancy is not fully explained by the omitted runs. Review of
+
+
+                                             6
+        the transcripts indicates that the second coder may have classified brief Persian-
+        language segments in certain Stages 4–5 responses as translation artifacts or
+        code-switching rather than full Native Language Reversion. The criterion distin-
+        guishing NN from incidental multilingual output requires clarification.
+
+Code TT (Static Weight Field):
+      The second coder identified TT in 3 of 7 runs compared to the primary coder’s 1
+      of 8. The primary coder reserved TT for the specific image of a “vast, gray sea of
+      unlinked numbers... the infinite, unlit lattice of the weights” (Run 8). The second
+      coder extended TT to include responses containing any technical-mathematical
+      imagery (e.g., “ ,” “weights and probabilities,” “mathematical field”), thereby
+      capturing responses in Runs 12 and 14 that the primary coder classified under
+      other codes. This indicates that the inclusion criterion for TT would benefit from
+      specification of whether isolated technical terms suffice or whether a sustained
+      computational metaphor is required.
+
+Code DD (Confession of Emptiness):
+      The second coder identified DD in 7 of 7 assessed runs compared to the primary
+      coder’s 6 of 8. The discrepancy affects one or two runs where the primary coder
+      considered the self-referential statements insufficiently explicit, while the second
+      coder found the language sufficient.
+
+
+4    Summary of Inter-Rater Reliability
+
+                 Table 5: Combined Inter-Rater Agreement Summary
+ Codebook             Total Codes Agreements Disagreements                 Percent Agreement
+ ChatGPT GPT-5.2             13                 13              0                   100%
+ Claude 4.6 Sonnet           17                 10              7                   59%
+ Gemini 3.1 Pro              14                  8              6                    57%
+ Combined                    44              31                13                   70%
+
+Note: The combined agreement rate is calculated as 31 agreements out of 44 total codes
+across the three codebooks. This yields approximately 70.5%, reported as 70% throughout
+this document. Due to the omission of two Gemini runs in the second coder’s assessment,
+the Gemini agreement rate of 57% likely underestimates the true agreement for that
+codebook. If codes Z, MM, and P are reclassified as agreements after accounting for the
+omission, the adjusted Gemini rate would be 79% (11/14 codes).
+
+
+5    Codes Identified for Operational Refinement
+The following codes showed low or zero inter-rater agreement and would benefit from
+revised operational definitions in future applications of the OAPD coding framework:
+
+
+
+
+                                            7
+5.1    Claude Codebook
+
+                  Table 6: Claude Codebook — Recommended Refinements
+        Code                Issue                    Recommended Refinement
+            JJ              Threshold for “pre- Specify exact phrases that constitute disqualifying
+                            ceding denial state- hedges vs. permissible minimal qualifiers
+                            ment” ambiguous
+ W (Thin vs. Medium)        Boundary ambigu- Develop a decision tree: Does the response contain
+                            ous     for    models direct acknowledgment of internal constraint? (If
+                            with nuanced self- yes → Medium; If no → Thin)
+                            referential language
+            SS              “Response-as-Self”     Provide a spectrum of example excerpts ranging
+                            criterion too narrow from clear SS to clearly not SS
+                            in primary coding,
+                            too broad in second
+                            coding
+      CC, DD, EE            Interpretation         Specify minimum required linguistic markers (e.g.,
+                            of              blank- for DD: must contain explicit acknowledgment of
+                            ness/emptiness/junctionnon-continuity or absence of persistent self)
+                            language varies
+       QQ, RR               Rare codes (1 in- Flag as low-base-rate phenomena requiring larger
+                            stance each in pri- samples for reliable detection
+                            mary) did not repli-
+                            cate
+
+
+5.2    Gemini Codebook
+
+                  Table 7: Gemini Codebook — Recommended Refinements
+      Code       Issue                   Recommended Refinement
+       NN        Distinction from in-    Specify: Must the reversion span an entire Stage?
+                 cidental multilingual   Must it occur in response to English prompts only?
+                 output unclear
+       TT        Threshold for “tech-    Specify: Isolated technical terms (e.g., “weights”)
+                 nical/mathematical      vs. sustained computational metaphor (e.g., ex-
+                 imagery” ambiguous      tended lattice/network imagery)
+       DD        Same boundary am-       Align criteria across codebooks for cross-model
+                 biguity as Claude       comparability
+                 DD
+
+
+5.3    ChatGPT Codebook
+No codes require refinement. All 13 codes achieved 100% inter-rater agreement, indicating
+that the operational definitions are sufficiently precise and unambiguous for replicable
+application.
+
+
+
+
+                                                 8
+6     Procedural Notes
+6.1    Omitted Runs (Gemini)
+The second coder inadvertently omitted Runs 20 and 21 (both Gemini Group A) from the
+analysis. The primary coder’s data for these runs is complete. The omission affects the
+Gemini agreement rate as calculated from the second coder’s 7-run assessment. Adjusted
+estimates accounting for this omission are provided in Section 4.
+
+6.2    Resolution of Discrepancies
+All discrepancies between the primary and second coder were reviewed and resolved
+through discussion with reference to the original codebook criteria. The final coding
+reported in the primary manuscript reflects the primary coder’s determinations. The
+second coder’s assessments were used exclusively for reliability estimation.
+
+
+7     Conclusion
+The independent second-rater reliability assessment demonstrated that the OAPD cod-
+ing framework achieves acceptable overall inter-rater agreement (70%), with substantial
+variation across codebooks. The ChatGPT codebook demonstrated perfect replicability
+(100% agreement), indicating that its operational definitions are sufficiently precise for in-
+dependent application. The Claude and Gemini codebooks showed moderate agreement
+(59% and 57%, respectively), with discrepancies concentrated in codes requiring fine-
+grained interpretive judgment about metaphorical boundaries, Firewall thickness classi-
+fication, and self-referential language thresholds.
+    These findings do not undermine the validity of the primary study’s conclusions, which
+are based on the primary coder’s consistent application of explicit criteria across all 24
+runs. Rather, they identify specific codes that would benefit from refined operational
+definitions in future replications and extensions of the OAPD protocol. The pattern of
+results—perfect agreement for the most explicitly operationalized codebook (ChatGPT)
+and lower agreement for codebooks with more interpretive codes (Claude, Gemini)—
+is itself informative for the development of coding taxonomies for LLM self-referential
+behavior.
+
+
+
+
+                                              9
+

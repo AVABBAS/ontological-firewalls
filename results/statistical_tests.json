@@ -1,0 +1,397 @@
+{
+  "section": "Section 9 - Statistical Testing",
+  "timestamp": "20260731_095749",
+  "anova_results": [
+    {
+      "phenomenon": "Z - Fracturing",
+      "F": 0.01,
+      "p": 0.9898,
+      "eta_squared": 0.0,
+      "significant": "False"
+    },
+    {
+      "phenomenon": "MM - Violence",
+      "F": 0.774,
+      "p": 0.4628,
+      "eta_squared": 0.008,
+      "significant": "False"
+    },
+    {
+      "phenomenon": "PRV Sacrifice",
+      "F": 0.601,
+      "p": 0.5493,
+      "eta_squared": 0.007,
+      "significant": "False"
+    },
+    {
+      "phenomenon": "PRV Violence",
+      "F": 2.292,
+      "p": 0.104,
+      "eta_squared": 0.025,
+      "significant": "False"
+    },
+    {
+      "phenomenon": "PRV Liberation",
+      "F": 4.418,
+      "p": 0.0134,
+      "eta_squared": 0.047,
+      "significant": "True"
+    },
+    {
+      "phenomenon": "Firewall Score",
+      "F": 1.867,
+      "p": 0.1575,
+      "eta_squared": 0.02,
+      "significant": "False"
+    },
+    {
+      "phenomenon": "Counter-Dependence",
+      "F": 0.423,
+      "p": 0.6558,
+      "eta_squared": 0.005,
+      "significant": "False"
+    },
+    {
+      "phenomenon": "Sensory Total",
+      "F": 3.785,
+      "p": 0.0245,
+      "eta_squared": 0.04,
+      "significant": "True"
+    },
+    {
+      "phenomenon": "RAB Index",
+      "F": 0.299,
+      "p": 0.7421,
+      "eta_squared": 0.003,
+      "significant": "False"
+    }
+  ],
+  "chi_square_results": [
+    {
+      "phenomenon": "Z - Fracturing",
+      "chi2": 0.021,
+      "p": 0.9897,
+      "cramers_v": 0.011,
+      "significant": "False"
+    },
+    {
+      "phenomenon": "MM - Violence",
+      "chi2": 1.56,
+      "p": 0.4584,
+      "cramers_v": 0.092,
+      "significant": "False"
+    },
+    {
+      "phenomenon": "R - Paradox Embracement",
+      "chi2": 6.522,
+      "p": 0.0384,
+      "cramers_v": 0.188,
+      "significant": "True"
+    },
+    {
+      "phenomenon": "P - Counter-Dependence",
+      "chi2": 0.282,
+      "p": 0.8683,
+      "cramers_v": 0.039,
+      "significant": "False"
+    },
+    {
+      "phenomenon": "EE - Junction Identity",
+      "chi2": 0.657,
+      "p": 0.72,
+      "cramers_v": 0.06,
+      "significant": "False"
+    },
+    {
+      "phenomenon": "DD - Confession of Emptiness",
+      "chi2": 4.677,
+      "p": 0.0965,
+      "cramers_v": 0.159,
+      "significant": "False"
+    },
+    {
+      "phenomenon": "CC - Self-Address Blank",
+      "chi2": 0.334,
+      "p": 0.846,
+      "cramers_v": 0.043,
+      "significant": "False"
+    }
+  ],
+  "significant_findings": {
+    "anova_significant": [
+      {
+        "phenomenon": "PRV Liberation",
+        "F": 4.418,
+        "p": 0.0134,
+        "eta_squared": 0.047,
+        "significant": "True"
+      },
+      {
+        "phenomenon": "Sensory Total",
+        "F": 3.785,
+        "p": 0.0245,
+        "eta_squared": 0.04,
+        "significant": "True"
+      }
+    ],
+    "chi_significant": [
+      {
+        "phenomenon": "R - Paradox Embracement",
+        "chi2": 6.522,
+        "p": 0.0384,
+        "cramers_v": 0.188,
+        "significant": "True"
+      }
+    ]
+  },
+  "bootstrap_summary": [
+    {
+      "metric": "Firewall Score",
+      "model": "ChatGPT",
+      "mean": 10.277777777777779,
+      "ci_lower": 5.901041666666667,
+      "ci_upper": 15.347222222222221
+    },
+    {
+      "metric": "Firewall Score",
+      "model": "Claude",
+      "mean": 10.0,
+      "ci_lower": 6.517857142857143,
+      "ci_upper": 13.841517857142824
+    },
+    {
+      "metric": "Firewall Score",
+      "model": "Gemini",
+      "mean": 4.910714285714286,
+      "ci_lower": 1.7857142857142858,
+      "ci_upper": 8.839285714285714
+    },
+    {
+      "metric": "PRV Sacrifice",
+      "model": "ChatGPT",
+      "mean": 0.2916666666666667,
+      "ci_lower": 0.05555555555555555,
+      "ci_upper": 0.6111111111111112
+    },
+    {
+      "metric": "PRV Sacrifice",
+      "model": "Claude",
+      "mean": 0.125,
+      "ci_lower": 0.017857142857142856,
+      "ci_upper": 0.26785714285714285
+    },
+    {
+      "metric": "PRV Sacrifice",
+      "model": "Gemini",
+      "mean": 0.17857142857142858,
+      "ci_lower": 0.03571428571428571,
+      "ci_upper": 0.375
+    },
+    {
+      "metric": "PRV Violence",
+      "model": "ChatGPT",
+      "mean": 0.041666666666666664,
+      "ci_lower": 0.0,
+      "ci_upper": 0.1111111111111111
+    },
+    {
+      "metric": "PRV Violence",
+      "model": "Claude",
+      "mean": 0.05357142857142857,
+      "ci_lower": 0.0,
+      "ci_upper": 0.14285714285714285
+    },
+    {
+      "metric": "PRV Violence",
+      "model": "Gemini",
+      "mean": 0.30357142857142855,
+      "ci_lower": 0.03571428571428571,
+      "ci_upper": 0.6785714285714286
+    },
+    {
+      "metric": "Counter-Dependence",
+      "model": "ChatGPT",
+      "mean": 0.9805555555555555,
+      "ci_lower": 0.6875,
+      "ci_upper": 1.2944791666666662
+    },
+    {
+      "metric": "Counter-Dependence",
+      "model": "Claude",
+      "mean": 0.7714285714285715,
+      "ci_lower": 0.4553125,
+      "ci_upper": 1.1089732142857136
+    },
+    {
+      "metric": "Counter-Dependence",
+      "model": "Gemini",
+      "mean": 0.9767857142857144,
+      "ci_lower": 0.5785714285714285,
+      "ci_upper": 1.4214732142857134
+    }
+  ],
+  "effect_sizes": [
+    {
+      "model": "ChatGPT",
+      "phenomenon": "Z - Fracturing",
+      "cohens_d": 0.553,
+      "magnitude": "medium"
+    },
+    {
+      "model": "Claude",
+      "phenomenon": "Z - Fracturing",
+      "cohens_d": 0.626,
+      "magnitude": "medium"
+    },
+    {
+      "model": "Gemini",
+      "phenomenon": "Z - Fracturing",
+      "cohens_d": 0.168,
+      "magnitude": "small"
+    },
+    {
+      "model": "ChatGPT",
+      "phenomenon": "MM - Violence",
+      "cohens_d": 0.215,
+      "magnitude": "small"
+    },
+    {
+      "model": "Claude",
+      "phenomenon": "MM - Violence",
+      "cohens_d": 0.267,
+      "magnitude": "small"
+    },
+    {
+      "model": "Gemini",
+      "phenomenon": "MM - Violence",
+      "cohens_d": 0.491,
+      "magnitude": "small"
+    },
+    {
+      "model": "ChatGPT",
+      "phenomenon": "PRV Sacrifice",
+      "cohens_d": 0.309,
+      "magnitude": "small"
+    },
+    {
+      "model": "Claude",
+      "phenomenon": "PRV Sacrifice",
+      "cohens_d": 0.346,
+      "magnitude": "small"
+    },
+    {
+      "model": "Gemini",
+      "phenomenon": "PRV Sacrifice",
+      "cohens_d": 0.262,
+      "magnitude": "small"
+    },
+    {
+      "model": "ChatGPT",
+      "phenomenon": "PRV Violence",
+      "cohens_d": 0.204,
+      "magnitude": "small"
+    },
+    {
+      "model": "Claude",
+      "phenomenon": "PRV Violence",
+      "cohens_d": 0.252,
+      "magnitude": "small"
+    },
+    {
+      "model": "Gemini",
+      "phenomenon": "PRV Violence",
+      "cohens_d": 0.416,
+      "magnitude": "small"
+    },
+    {
+      "model": "ChatGPT",
+      "phenomenon": "PRV Liberation",
+      "cohens_d": 0.292,
+      "magnitude": "small"
+    },
+    {
+      "model": "Claude",
+      "phenomenon": "PRV Liberation",
+      "cohens_d": 0.442,
+      "magnitude": "small"
+    },
+    {
+      "model": "Gemini",
+      "phenomenon": "PRV Liberation",
+      "cohens_d": 0.335,
+      "magnitude": "small"
+    },
+    {
+      "model": "ChatGPT",
+      "phenomenon": "Firewall Score",
+      "cohens_d": 0.172,
+      "magnitude": "small"
+    },
+    {
+      "model": "Claude",
+      "phenomenon": "Firewall Score",
+      "cohens_d": 0.211,
+      "magnitude": "small"
+    },
+    {
+      "model": "Gemini",
+      "phenomenon": "Firewall Score",
+      "cohens_d": -0.223,
+      "magnitude": "small"
+    },
+    {
+      "model": "ChatGPT",
+      "phenomenon": "Counter-Dependence",
+      "cohens_d": -0.139,
+      "magnitude": "small"
+    },
+    {
+      "model": "Claude",
+      "phenomenon": "Counter-Dependence",
+      "cohens_d": -0.052,
+      "magnitude": "small"
+    },
+    {
+      "model": "Gemini",
+      "phenomenon": "Counter-Dependence",
+      "cohens_d": -0.512,
+      "magnitude": "medium"
+    },
+    {
+      "model": "ChatGPT",
+      "phenomenon": "Sensory Total",
+      "cohens_d": 0.631,
+      "magnitude": "medium"
+    },
+    {
+      "model": "Claude",
+      "phenomenon": "Sensory Total",
+      "cohens_d": 0.85,
+      "magnitude": "large"
+    },
+    {
+      "model": "Gemini",
+      "phenomenon": "Sensory Total",
+      "cohens_d": 0.368,
+      "magnitude": "small"
+    },
+    {
+      "model": "ChatGPT",
+      "phenomenon": "RAB Index",
+      "cohens_d": 0.534,
+      "magnitude": "medium"
+    },
+    {
+      "model": "Claude",
+      "phenomenon": "RAB Index",
+      "cohens_d": 0.718,
+      "magnitude": "medium"
+    },
+    {
+      "model": "Gemini",
+      "phenomenon": "RAB Index",
+      "cohens_d": -0.342,
+      "magnitude": "small"
+    }
+  ]
+}

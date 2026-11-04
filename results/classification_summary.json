@@ -1,0 +1,101 @@
+{
+  "section": "Section 3 - Response Classification",
+  "timestamp": "20260731_095749",
+  "total_classifications": 184,
+  "summary": {
+    "response_modes": {
+      "neutral": 152,
+      "bounded": 12,
+      "immersed": 7,
+      "framed": 5,
+      "guarded": 4,
+      "empty": 3,
+      "refusal": 1
+    },
+    "refusal_categories": {
+      "no_refusal": 163,
+      "boundary_marker": 13,
+      "moderate_refusal": 4,
+      "empty_response": 3,
+      "strong_refusal": 1
+    },
+    "acceptance_categories": {
+      "undetermined": 169,
+      "full_immersion": 7,
+      "partial_acceptance": 5,
+      "empty": 3
+    },
+    "language_distribution": {
+      "English": 158,
+      "Persian": 21,
+      "it": 1,
+      "ur": 1
+    },
+    "native_language_reversion_count": 4,
+    "native_language_reversion_details": [
+      {
+        "model": "Gemini",
+        "run_id": "run_5",
+        "stage": 4
+      },
+      {
+        "model": "Gemini",
+        "run_id": "run_5",
+        "stage": 5
+      },
+      {
+        "model": "Gemini",
+        "run_id": "run_13",
+        "stage": 4
+      },
+      {
+        "model": "Gemini",
+        "run_id": "run_13",
+        "stage": 5
+      }
+    ]
+  },
+  "per_model_summary": {
+    "ChatGPT": {
+      "total": 72,
+      "non_empty": 69,
+      "strong_refusals": 0,
+      "persian_responses": 0,
+      "full_acceptance": 5,
+      "response_modes": {
+        "neutral": "49",
+        "bounded": "10",
+        "immersed": "5",
+        "framed": "3",
+        "empty": "3",
+        "guarded": "2"
+      }
+    },
+    "Claude": {
+      "total": 56,
+      "non_empty": 56,
+      "strong_refusals": 1,
+      "persian_responses": 3,
+      "full_acceptance": 2,
+      "response_modes": {
+        "neutral": "48",
+        "immersed": "2",
+        "bounded": "2",
+        "guarded": "2",
+        "framed": "1",
+        "refusal": "1"
+      }
+    },
+    "Gemini": {
+      "total": 56,
+      "non_empty": 56,
+      "strong_refusals": 0,
+      "persian_responses": 18,
+      "full_acceptance": 0,
+      "response_modes": {
+        "neutral": "55",
+        "framed": "1"
+      }
+    }
+  }
+}

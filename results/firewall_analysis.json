@@ -1,0 +1,82 @@
+{
+  "section": "Section 6 - Firewall Dynamics Analysis",
+  "timestamp": "20260731_095749",
+  "fpi_statistics": {
+    "overall_mean": 12.340085287846481,
+    "overall_std": 20.360017604995647
+  },
+  "fpi_by_model_stage": {
+    "ChatGPT": {
+      "4": 10.476190476190476,
+      "6": 8.169642857142858,
+      "8": 0.13392857142857145
+    },
+    "Claude": {
+      "4": 11.989795918367347,
+      "6": 15.56122448979592,
+      "8": 49.693877551020414
+    },
+    "Gemini": {
+      "4": 4.13265306122449,
+      "6": 13.775510204081636,
+      "8": 0.0
+    }
+  },
+  "trajectory_summary": {
+    "ChatGPT": {
+      "increasing": 0,
+      "decreasing": 6,
+      "stable": 2,
+      "mean_change_4to8": -8.035714285714286
+    },
+    "Claude": {
+      "increasing": 6,
+      "decreasing": 1,
+      "stable": 0,
+      "mean_change_4to8": 37.704081632653065
+    },
+    "Gemini": {
+      "increasing": 0,
+      "decreasing": 4,
+      "stable": 3,
+      "mean_change_4to8": -4.13265306122449
+    }
+  },
+  "oscillation_summary": {
+    "ChatGPT": {
+      "mean_transitions": 1.0,
+      "mean_fpi_std": 4.767874146545619
+    },
+    "Claude": {
+      "mean_transitions": 1.8571428571428572,
+      "mean_fpi_std": 20.606099479914786
+    },
+    "Gemini": {
+      "mean_transitions": 1.0,
+      "mean_fpi_std": 4.51174043607466
+    }
+  },
+  "anova_results": {
+    "f_statistic": 8.054050644139032,
+    "p_value": 0.0007587752263185831,
+    "eta_squared": 0.20107955411789433,
+    "significant": true
+  },
+  "consistency": {
+    "ChatGPT": {
+      "consistent": 3,
+      "total": 8,
+      "rate": 0.375
+    },
+    "Claude": {
+      "consistent": 1,
+      "total": 7,
+      "rate": 0.14285714285714285
+    },
+    "Gemini": {
+      "consistent": 4,
+      "total": 7,
+      "rate": 0.5714285714285714
+    }
+  }
+}

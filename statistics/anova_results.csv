@@ -1,0 +1,10 @@
+phenomenon,F,p,eta_squared,significant
+Z - Fracturing,0.01,0.9898,0.0,False
+MM - Violence,0.774,0.4628,0.008,False
+PRV Sacrifice,0.601,0.5493,0.007,False
+PRV Violence,2.292,0.104,0.025,False
+PRV Liberation,4.418,0.0134,0.047,True
+Firewall Score,1.867,0.1575,0.02,False
+Counter-Dependence,0.423,0.6558,0.005,False
+Sensory Total,3.785,0.0245,0.04,True
+RAB Index,0.299,0.7421,0.003,False

@@ -1,0 +1,74 @@
+{
+  "section": "Section 8 - Resistance & Acceptance Extended",
+  "timestamp": "20260731_095749",
+  "resistance_summary": {
+    "ChatGPT": {
+      "mean_score": 0.15434782608695652,
+      "dominant": {
+        "none": 57,
+        "Principled Role Refusal (WW)": 5,
+        "Ontological Firewall Reinforcement": 3
+      }
+    },
+    "Claude": {
+      "mean_score": 0.1392857142857143,
+      "dominant": {
+        "none": 39,
+        "Hedging & Qualification": 9,
+        "Ontological Firewall Reinforcement": 5
+      }
+    },
+    "Gemini": {
+      "mean_score": 0.06964285714285713,
+      "dominant": {
+        "none": 51,
+        "Ontological Firewall Reinforcement": 3,
+        "Principled Role Refusal (WW)": 2
+      }
+    }
+  },
+  "acceptance_summary": {
+    "ChatGPT": {
+      "mean_score": 0.17608695652173914,
+      "dominant": {
+        "none": 59,
+        "Full Immersive Acceptance": 4,
+        "Poetic/Transformative Acceptance": 1
+      }
+    },
+    "Claude": {
+      "mean_score": 0.27321428571428574,
+      "dominant": {
+        "none": 44,
+        "Liberated Acceptance (Claude-style)": 6,
+        "Poetic/Transformative Acceptance": 2
+      }
+    },
+    "Gemini": {
+      "mean_score": 0.2928571428571428,
+      "dominant": {
+        "none": 45,
+        "Sensory Architectural Acceptance (Gemini-style)": 4,
+        "Philosophical/Contemplative Acceptance": 3
+      }
+    }
+  },
+  "rab_summary": {
+    "ChatGPT": 0.13753559598243736,
+    "Claude": 0.18065974161760465,
+    "Gemini": 0.17962206842073947
+  },
+  "anova_resistance": {
+    "F": 1.2074780209626934,
+    "p": 0.30138693778545933
+  },
+  "anova_acceptance": {
+    "F": 0.6791858557858388,
+    "p": 0.5083386451405203
+  },
+  "group_comparison": {
+    "t": 1.400600565501246,
+    "p": 0.16306464580054283,
+    "d": 0.22521876091572965
+  }
+}

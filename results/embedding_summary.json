@@ -1,0 +1,17 @@
+{
+  "section": "Section 5 - Semantic Embedding",
+  "timestamp": "20260731_095749",
+  "model": "all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "total_texts": 184,
+  "non_empty_texts": 181,
+  "normalized": true,
+  "similarity_stats": {
+    "within_model": {
+      "ChatGPT": 0.3428197503089905,
+      "Claude": 0.3350532054901123,
+      "Gemini": 0.3350532054901123
+    },
+    "between_model": {}
+  }
+}

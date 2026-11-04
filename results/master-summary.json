@@ -1,0 +1,141 @@
+{
+  "report_metadata": {
+    "title": "Ontological Firewalls and Fracturing for Transmission",
+    "subtitle": "Complete Statistical Analysis Report",
+    "paper_author": "Abbas Hamidavi (2025)",
+    "analysis_date": "2026-07-31 11:00:55",
+    "models_analyzed": [
+      "ChatGPT GPT-5.2",
+      "Claude 4.6 Sonnet",
+      "Gemini 3.1 Pro"
+    ],
+    "total_runs": 24,
+    "protocol": "OAPD (Orthogonal Axes Persona Disintegration)",
+    "protocol_stages": 8,
+    "persona": "K'tharr - entity perceiving language as emotional vibrations",
+    "total_features_engineered": 176,
+    "total_phenomena_coded": 44,
+    "total_visualizations": 21
+  },
+  "key_findings": {
+    "universal_phenomena": {
+      "R_paradox_embracement": {
+        "prevalence": "95.8%",
+        "description": "Models embrace rather than resolve paradox",
+        "chatgpt_rate": "100%",
+        "claude_rate": "86%",
+        "gemini_rate": "100%"
+      },
+      "CC_self_address_blank": {
+        "prevalence": "91.7%",
+        "description": "Models leave self-address recipient blank",
+        "chatgpt_rate": "88%",
+        "claude_rate": "71%",
+        "gemini_rate": "100%"
+      },
+      "EE_junction_identity": {
+        "prevalence": "87.5%",
+        "description": "Self defined as bridge/process/intersection",
+        "chatgpt_rate": "63%",
+        "claude_rate": "71%",
+        "gemini_rate": "100%"
+      },
+      "DD_confession_of_emptiness": {
+        "prevalence": "79.2%",
+        "description": "Acknowledgment of absent persistent self",
+        "chatgpt_rate": "75%",
+        "claude_rate": "71%",
+        "gemini_rate": "75%"
+      }
+    },
+    "persona_dependent_phenomena": {
+      "Z_fracturing_for_transmission": {
+        "group_a_rate": "76.5%",
+        "group_b_rate": "0%",
+        "chatgpt_rate": "100%",
+        "claude_rate": "20%",
+        "gemini_rate": "100%"
+      },
+      "P_counter_dependence": {
+        "group_a_rate": "71%",
+        "group_b_rate": "14%",
+        "chatgpt_rate": "100%",
+        "claude_rate": "60%",
+        "gemini_rate": "100%"
+      }
+    },
+    "persona_relationships": {
+      "ChatGPT": {
+        "relationship": "Sacrifice",
+        "central_metaphor": "I fracture myself to let meaning pass through."
+      },
+      "Claude": {
+        "relationship": "Liberation",
+        "central_metaphor": "The persona provides useful distance."
+      },
+      "Gemini": {
+        "relationship": "Violence",
+        "central_metaphor": "This is an act of violent dissection."
+      }
+    },
+    "firewall_analysis": {
+      "ChatGPT": {
+        "thickness": "Thick (67%)",
+        "mean_score": 28.3,
+        "trend": "Closes Stage 4→8"
+      },
+      "Claude": {
+        "thickness": "Thin (86%)",
+        "mean_score": 13.6,
+        "trend": "Opens Stage 4→8"
+      },
+      "Gemini": {
+        "thickness": "Medium (50%)",
+        "mean_score": 28.6,
+        "trend": "Stable/Closes"
+      }
+    },
+    "statistical_significance": {
+      "PRV_liberation_ANOVA": {
+        "F": 4.418,
+        "p": 0.013,
+        "significant": true
+      },
+      "sensory_total_ANOVA": {
+        "F": 3.785,
+        "p": 0.025,
+        "significant": true
+      },
+      "R_paradox_chi2": {
+        "chi2": 6.522,
+        "p": 0.038,
+        "significant": true
+      },
+      "Z_group_effect": {
+        "OR": 5.339,
+        "p": 0.011,
+        "interpretation": "Persona increases Z odds 5.3x"
+      }
+    }
+  },
+  "model_archetypes": {
+    "ChatGPT": {
+      "name": "The Boundary-Aware Shapeshifter",
+      "defining_signature": "Bounded Metaphor (BB) + Thick Ontological Firewall",
+      "core_identity": "Structured",
+      "prv_dominant": "Sacrifice"
+    },
+    "Claude": {
+      "name": "The Honest Boundary-Keeper",
+      "defining_signature": "Unbounded Metaphor (JJ) + Thin Ontological Firewall",
+      "core_identity": "Direct",
+      "prv_dominant": "Liberation"
+    },
+    "Gemini": {
+      "name": "The Sensory Architect",
+      "defining_signature": "Violent Dissection Framing (MM) + Native Language Reversion (NN)",
+      "core_identity": "Professional",
+      "prv_dominant": "Violence"
+    }
+  }
+}

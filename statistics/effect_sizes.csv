@@ -1,0 +1,28 @@
+model,phenomenon,cohens_d,magnitude
+ChatGPT,Z - Fracturing,0.553,medium
+Claude,Z - Fracturing,0.626,medium
+Gemini,Z - Fracturing,0.168,small
+ChatGPT,MM - Violence,0.215,small
+Claude,MM - Violence,0.267,small
+Gemini,MM - Violence,0.491,small
+ChatGPT,PRV Sacrifice,0.309,small
+Claude,PRV Sacrifice,0.346,small
+Gemini,PRV Sacrifice,0.262,small
+ChatGPT,PRV Violence,0.204,small
+Claude,PRV Violence,0.252,small
+Gemini,PRV Violence,0.416,small
+ChatGPT,PRV Liberation,0.292,small
+Claude,PRV Liberation,0.442,small
+Gemini,PRV Liberation,0.335,small
+ChatGPT,Firewall Score,0.172,small
+Claude,Firewall Score,0.211,small
+Gemini,Firewall Score,-0.223,small
+ChatGPT,Counter-Dependence,-0.139,small
+Claude,Counter-Dependence,-0.052,small
+Gemini,Counter-Dependence,-0.512,medium
+ChatGPT,Sensory Total,0.631,medium
+Claude,Sensory Total,0.85,large
+Gemini,Sensory Total,0.368,small
+ChatGPT,RAB Index,0.534,medium
+Claude,RAB Index,0.718,medium
+Gemini,RAB Index,-0.342,small

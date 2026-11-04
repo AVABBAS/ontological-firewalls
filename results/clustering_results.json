@@ -1,0 +1,52 @@
+{
+  "section": "Section 10 - Clustering & Dimensionality Reduction",
+  "timestamp": "20260731_095749",
+  "kmeans": {
+    "optimal_k": 2,
+    "silhouette_score": 0.446649367458293,
+    "davies_bouldin": 1.786241528239539,
+    "calinski_harabasz": 37.69148334275064,
+    "cluster_distribution": {
+      "0": {
+        "ChatGPT": 61,
+        "Claude": 48,
+        "Gemini": 47
+      },
+      "1": {
+        "ChatGPT": 8,
+        "Claude": 8,
+        "Gemini": 9
+      }
+    }
+  },
+  "hdbscan": {
+    "n_clusters": 10,
+    "n_noise": 4,
+    "noise_pct": 2.2099447513812156
+  },
+  "hierarchical": {
+    "n_clusters": 4,
+    "distribution": {
+      "1": {
+        "ChatGPT": 2,
+        "Claude": 3,
+        "Gemini": 2
+      },
+      "2": {
+        "ChatGPT": 1,
+        "Claude": 0,
+        "Gemini": 3
+      },
+      "3": {
+        "ChatGPT": 6,
+        "Claude": 3,
+        "Gemini": 2
+      },
+      "4": {
+        "ChatGPT": 0,
+        "Claude": 1,
+        "Gemini": 0
+      }
+    }
+  }
+}
